@@ -1,3 +1,3 @@
 # Gerador de Senha
 
-<h3>Gerador de senha ,Feito  com react native expo</h3>
+<h3>Gerador de senha ,Feito  com React Native e Expo</h3>
